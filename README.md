@@ -1,6 +1,6 @@
-### Hi there my name is Kamran Qureshi
+### Hi there my name is Kamran!
 
-## Background Information
+## Background Information 
 - I am full-stack software engineer based out of New York. I was previously an Accountant that wanted to find a career path that offered a fresh new challenge to conquer. Throughout my career I have always sought out the path that felt most interesting even if it often meant longer hours and a few headaches on the way. I strive to always challenge my self and if I ever feel too comfortable I make sure I can get out of my comfort zone to push my self again. This career path has lead me to meet a plethora of intersting people from all backgrounds and learn so much more than I ever expected. I can't wait to continue this journey and hopefully you'll be apart of it!
 
 ## More about me:
